@@ -6,7 +6,7 @@ Each task is organized by day and follows the internship training roadmap.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 * TypeScript
 * NestJS
@@ -19,7 +19,7 @@ Each task is organized by day and follows the internship training roadmap.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 internship-tasks/
@@ -36,7 +36,7 @@ Each day's folder contains the source code, documentation, and any required asse
 
 ---
 
-## 📅 Learning Roadmap
+## Learning Roadmap
 
 ### Day 1
 
